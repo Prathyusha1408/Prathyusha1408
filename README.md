@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Prathyusha 👋
 
-<!--
-**Prathyusha1408/Prathyusha1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Information Systems  
+💻 Data Engineer | AI & Agentic AI Enthusiast  
+🚀 Building real-world AI + Data applications  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python, SQL, Pandas
+- FastAPI, Streamlit
+- AWS (Basics)
+- LLMs (OpenAI, CrewAI, RAG)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### ✈️ Flight Intelligence Tool
+- Built using FastAPI + Travel APIs
+- Fetches cheapest flights, routes & pricing insights
+
+### 📊 Data-to-Insights AI App
+- Converts natural language → data insights
+- Built with Pandas + Streamlit + LLMs
+
+### 🤖 Quad AI Resume Reviewer
+- Multi-agent AI system using CrewAI
+- Automates resume analysis with multiple agents
+
+### 🎮 The Great Race Game
+- Interactive React-based learning game
+- Designed for educational use (kids learning numbers)
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/grandhi-naga-sai-prathyusha-70a4051b6/
+- GitHub: https://github.com/Prathyusha1408
