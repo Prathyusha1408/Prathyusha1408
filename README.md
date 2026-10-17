@@ -1,33 +1,19 @@
 # Hi, I'm Prathyusha 👋
 
-🎓 Master's in Information Systems  
-💻 Data Engineer | AI & Agentic AI Enthusiast  
-🚀 Building real-world AI + Data applications  
+**Gen AI & Agentic AI Developer** with 5+ years building LLM-powered agents,
+enterprise chatbots, and intelligent automation at Tata Consultancy Services.
 
-## 🔧 Tech Stack
-- Python, SQL, Pandas
-- FastAPI, Streamlit
-- AWS (Basics)
-- LLMs (OpenAI, CrewAI, RAG)
+## What I work with
+- **Agents & RAG:** LangGraph, CrewAI, ChromaDB, OpenAI GPT-4, Google Gemini
+- **Conversational AI:** Kore.ai XO, Google Dialogflow CX, Contact Center AI
+- **Build & deploy:** Python, Streamlit, REST APIs, GCP, Azure AI, Docker
 
-## 🚀 Projects
+## Featured projects
+- [Policy Q&A Agent](https://github.com/Prathyusha1408/policy-qa-agent): agentic RAG with LangGraph that grades retrieval, rewrites queries, cites sources, and declines out-of-scope questions (24/24 answerable and 6/6 out-of-scope on a 30-question test set)
+- [Quad-AI Resume Reviewer](https://github.com/Prathyusha1408/quad-ai-resume-reviewer): 4-agent CrewAI pipeline that analyzes resumes against job descriptions
+- [Data-to-Insights POC](https://github.com/Prathyusha1408/data-to-insights-poc): ask questions about Excel data in plain English and get charts and summaries
 
-### ✈️ Flight Intelligence Tool
-- Built using FastAPI + Travel APIs
-- Fetches cheapest flights, routes & pricing insights
+## Certifications
+Azure AI Engineer Associate (AI-102) · Azure AI Fundamentals (AI-900) · Google Cloud Associate Cloud Engineer
 
-### 📊 Data-to-Insights AI App
-- Converts natural language → data insights
-- Built with Pandas + Streamlit + LLMs
-
-### 🤖 Quad AI Resume Reviewer
-- Multi-agent AI system using CrewAI
-- Automates resume analysis with multiple agents
-
-### 🎮 The Great Race Game
-- Interactive React-based learning game
-- Designed for educational use (kids learning numbers)
-
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/grandhi-naga-sai-prathyusha-70a4051b6/
-- GitHub: https://github.com/Prathyusha1408
+📫 [LinkedIn](https://www.linkedin.com/in/grandhi-naga-sai-prathyusha-70a4051b6/)
