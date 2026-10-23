@@ -1,6 +1,6 @@
 # Hi, I'm Prathyusha 👋
 
-**Gen AI & Agentic AI Developer** with 5+ years building LLM-powered agents,
+**Gen AI & Agentic AI Developer** with 3+ years building LLM-powered agents,
 enterprise chatbots, and intelligent automation at Tata Consultancy Services.
 
 ## What I work with
